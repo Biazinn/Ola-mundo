@@ -1,2 +1,2 @@
-# Ola mundo
- repositorio curso em video git e github
+# Olá, mundo!
+ Repositório criado durante o curso de Git e GitHub do professor Gustavo Guanabara no Curso em Video.
